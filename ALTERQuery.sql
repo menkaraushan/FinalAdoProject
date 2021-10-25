@@ -1,0 +1,2 @@
+﻿ALTER TABLE Customer
+ADD Lname VARCHAR(255);
